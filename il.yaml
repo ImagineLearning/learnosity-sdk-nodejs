@@ -7,6 +7,7 @@ meta:
 otk:
   enabled: true
   build:
+    analysis: false
     platform: arm64
     linuxDistribution: alpine
     language: node
